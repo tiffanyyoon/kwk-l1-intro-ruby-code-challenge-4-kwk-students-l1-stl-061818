@@ -7,3 +7,5 @@ def least_coins(cents)
  "pennies" == 1
 
 end
+
+least_coins
