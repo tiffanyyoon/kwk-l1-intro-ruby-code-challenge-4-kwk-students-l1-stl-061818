@@ -1,10 +1,9 @@
-least_coins{
-  "Quarters" => 
-}
-value of the coins and total value
+
 
 def least_coins(cents)
-
-#Code your answer here!
+ "quarter" = 25
+ "dime" = 10 
+ "nickels" = 5 
+ "pennies" = 1
 
 end
