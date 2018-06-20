@@ -1,6 +1,7 @@
 least_coins{
   "Quarters" => 
 }
+value of the coins and total value
 
 def least_coins(cents)
 
